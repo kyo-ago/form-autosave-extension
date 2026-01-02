@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Sauvegarde automatiquement les champs de texte et les restaure lors du rechargement de la page",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "Champs sauvegardés sur cette page",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "Les champs de texte sont automatiquement sauvegardés et restaurés lors du rechargement de la page. Les informations sensibles comme les mots de passe ne sont jamais sauvegardées.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "Afficher les données",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "Masquer les données",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "Effacer les données de cette page",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "Effacer toutes les données",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "Aucune donnée sauvegardée",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "Non disponible sur cette page",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "Supprimer toutes les données sauvegardées de cette page ?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "Supprimer toutes les données sauvegardées de tous les sites ($COUNT$ éléments) ?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "Données supprimées",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "Toutes les données supprimées",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "Non disponible sur cette page",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "Aucune donnée sauvegardée",
+    "description": "Toast message when there is no data"
+  }
+}

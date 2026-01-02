@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Slaat tekstveldinhoud automatisch op en herstelt deze bij het herladen van de pagina" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Opgeslagen velden op deze pagina" },
+  "infoText": { "message": "Tekstveldinhoud wordt automatisch opgeslagen en hersteld bij het herladen van de pagina. Gevoelige informatie zoals wachtwoorden wordt nooit opgeslagen." },
+  "showFieldsButton": { "message": "Opgeslagen gegevens tonen" },
+  "hideFieldsButton": { "message": "Opgeslagen gegevens verbergen" },
+  "clearPageButton": { "message": "Gegevens van deze pagina wissen" },
+  "clearAllButton": { "message": "Alle gegevens wissen" },
+  "emptyStateNoData": { "message": "Geen opgeslagen gegevens" },
+  "emptyStateNotAvailable": { "message": "Niet beschikbaar op deze pagina" },
+  "confirmClearPage": { "message": "Alle opgeslagen gegevens van deze pagina verwijderen?" },
+  "confirmClearAll": { "message": "Alle opgeslagen gegevens van alle sites verwijderen ($COUNT$ items)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Gegevens verwijderd" },
+  "toastAllDeleted": { "message": "Alle gegevens verwijderd" },
+  "toastNotAvailable": { "message": "Niet beschikbaar op deze pagina" },
+  "toastNoData": { "message": "Geen opgeslagen gegevens" }
+}

@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "自動儲存文字欄位輸入內容，重新整理頁面時自動還原",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "此頁面已儲存的欄位數",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "文字欄位的輸入內容會自動儲存，重新整理頁面時自動還原。密碼等敏感資訊不會被儲存。",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "顯示已儲存資料",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "隱藏已儲存資料",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "清除此頁面資料",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "清除所有資料",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "沒有已儲存的資料",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "此頁面無法使用",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "確定要刪除此頁面的所有儲存資料嗎？",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "確定要刪除所有網站的儲存資料（共 $COUNT$ 項）嗎？",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "資料已刪除",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "所有資料已刪除",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "此頁面無法使用",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "沒有已儲存的資料",
+    "description": "Toast message when there is no data"
+  }
+}

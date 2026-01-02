@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Tự động lưu nội dung trường văn bản và khôi phục khi tải lại trang" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Các trường đã lưu trên trang này" },
+  "infoText": { "message": "Nội dung trường văn bản được tự động lưu và khôi phục khi tải lại trang. Thông tin nhạy cảm như mật khẩu không bao giờ được lưu." },
+  "showFieldsButton": { "message": "Hiển thị dữ liệu đã lưu" },
+  "hideFieldsButton": { "message": "Ẩn dữ liệu đã lưu" },
+  "clearPageButton": { "message": "Xóa dữ liệu trang này" },
+  "clearAllButton": { "message": "Xóa tất cả dữ liệu" },
+  "emptyStateNoData": { "message": "Không có dữ liệu đã lưu" },
+  "emptyStateNotAvailable": { "message": "Không khả dụng trên trang này" },
+  "confirmClearPage": { "message": "Xóa tất cả dữ liệu đã lưu của trang này?" },
+  "confirmClearAll": { "message": "Xóa tất cả dữ liệu đã lưu của tất cả các trang ($COUNT$ mục)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Đã xóa dữ liệu" },
+  "toastAllDeleted": { "message": "Đã xóa tất cả dữ liệu" },
+  "toastNotAvailable": { "message": "Không khả dụng trên trang này" },
+  "toastNoData": { "message": "Không có dữ liệu đã lưu" }
+}

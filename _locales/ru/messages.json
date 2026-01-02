@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Автоматически сохраняет текстовые поля и восстанавливает их при перезагрузке страницы",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "Сохранённых полей на этой странице",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "Текстовые поля автоматически сохраняются и восстанавливаются при перезагрузке страницы. Конфиденциальная информация, такая как пароли, никогда не сохраняется.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "Показать сохранённые данные",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "Скрыть сохранённые данные",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "Очистить данные этой страницы",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "Очистить все данные",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "Нет сохранённых данных",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "Недоступно на этой странице",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "Удалить все сохранённые данные этой страницы?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "Удалить все сохранённые данные всех сайтов ($COUNT$ элементов)?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "Данные удалены",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "Все данные удалены",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "Недоступно на этой странице",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "Нет сохранённых данных",
+    "description": "Toast message when there is no data"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Menyimpan konten bidang teks secara otomatis dan memulihkannya saat memuat ulang halaman" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Bidang tersimpan di halaman ini" },
+  "infoText": { "message": "Konten bidang teks disimpan secara otomatis dan dipulihkan saat memuat ulang halaman. Informasi sensitif seperti kata sandi tidak pernah disimpan." },
+  "showFieldsButton": { "message": "Tampilkan data tersimpan" },
+  "hideFieldsButton": { "message": "Sembunyikan data tersimpan" },
+  "clearPageButton": { "message": "Hapus data halaman ini" },
+  "clearAllButton": { "message": "Hapus semua data" },
+  "emptyStateNoData": { "message": "Tidak ada data tersimpan" },
+  "emptyStateNotAvailable": { "message": "Tidak tersedia di halaman ini" },
+  "confirmClearPage": { "message": "Hapus semua data tersimpan halaman ini?" },
+  "confirmClearAll": { "message": "Hapus semua data tersimpan dari semua situs ($COUNT$ item)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Data dihapus" },
+  "toastAllDeleted": { "message": "Semua data dihapus" },
+  "toastNotAvailable": { "message": "Tidak tersedia di halaman ini" },
+  "toastNoData": { "message": "Tidak ada data tersimpan" }
+}

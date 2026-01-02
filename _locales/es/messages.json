@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Guarda automáticamente los campos de texto y los restaura al recargar la página",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "Campos guardados en esta página",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "Los campos de texto se guardan automáticamente y se restauran al recargar la página. La información sensible como contraseñas nunca se guarda.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "Mostrar datos guardados",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "Ocultar datos guardados",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "Borrar datos de esta página",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "Borrar todos los datos",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "No hay datos guardados",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "No disponible en esta página",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "¿Eliminar todos los datos guardados de esta página?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "¿Eliminar todos los datos guardados de todos los sitios ($COUNT$ elementos)?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "Datos eliminados",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "Todos los datos eliminados",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "No disponible en esta página",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "No hay datos guardados",
+    "description": "Toast message when there is no data"
+  }
+}

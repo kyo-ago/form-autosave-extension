@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "يحفظ حقول النص تلقائياً ويستعيدها عند إعادة تحميل الصفحة",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "الحقول المحفوظة في هذه الصفحة",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "يتم حفظ حقول النص تلقائياً واستعادتها عند إعادة تحميل الصفحة. لا يتم حفظ المعلومات الحساسة مثل كلمات المرور أبداً.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "عرض البيانات المحفوظة",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "إخفاء البيانات المحفوظة",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "مسح بيانات هذه الصفحة",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "مسح جميع البيانات",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "لا توجد بيانات محفوظة",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "غير متاح في هذه الصفحة",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "هل تريد حذف جميع البيانات المحفوظة لهذه الصفحة؟",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "هل تريد حذف جميع البيانات المحفوظة لجميع المواقع ($COUNT$ عناصر)؟",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "تم حذف البيانات",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "تم حذف جميع البيانات",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "غير متاح في هذه الصفحة",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "لا توجد بيانات محفوظة",
+    "description": "Toast message when there is no data"
+  }
+}

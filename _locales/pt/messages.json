@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Guarda automaticamente o conteúdo dos campos de texto e restaura ao recarregar a página" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Campos guardados nesta página" },
+  "infoText": { "message": "O conteúdo dos campos de texto é guardado automaticamente e restaurado ao recarregar a página. Informações sensíveis como palavras-passe nunca são guardadas." },
+  "showFieldsButton": { "message": "Mostrar dados guardados" },
+  "hideFieldsButton": { "message": "Ocultar dados guardados" },
+  "clearPageButton": { "message": "Limpar dados desta página" },
+  "clearAllButton": { "message": "Limpar todos os dados" },
+  "emptyStateNoData": { "message": "Sem dados guardados" },
+  "emptyStateNotAvailable": { "message": "Não disponível nesta página" },
+  "confirmClearPage": { "message": "Eliminar todos os dados guardados desta página?" },
+  "confirmClearAll": { "message": "Eliminar todos os dados guardados de todos os sites ($COUNT$ itens)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Dados eliminados" },
+  "toastAllDeleted": { "message": "Todos os dados eliminados" },
+  "toastNotAvailable": { "message": "Não disponível nesta página" },
+  "toastNoData": { "message": "Sem dados guardados" }
+}

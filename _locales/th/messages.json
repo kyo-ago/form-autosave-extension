@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "บันทึกเนื้อหาช่องข้อความโดยอัตโนมัติและกู้คืนเมื่อโหลดหน้าใหม่" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "ฟิลด์ที่บันทึกในหน้านี้" },
+  "infoText": { "message": "เนื้อหาช่องข้อความจะถูกบันทึกโดยอัตโนมัติและกู้คืนเมื่อโหลดหน้าใหม่ ข้อมูลที่ละเอียดอ่อนเช่นรหัสผ่านจะไม่ถูกบันทึก" },
+  "showFieldsButton": { "message": "แสดงข้อมูลที่บันทึก" },
+  "hideFieldsButton": { "message": "ซ่อนข้อมูลที่บันทึก" },
+  "clearPageButton": { "message": "ล้างข้อมูลหน้านี้" },
+  "clearAllButton": { "message": "ล้างข้อมูลทั้งหมด" },
+  "emptyStateNoData": { "message": "ไม่มีข้อมูลที่บันทึก" },
+  "emptyStateNotAvailable": { "message": "ไม่สามารถใช้งานได้ในหน้านี้" },
+  "confirmClearPage": { "message": "ลบข้อมูลที่บันทึกทั้งหมดของหน้านี้?" },
+  "confirmClearAll": { "message": "ลบข้อมูลที่บันทึกทั้งหมดของทุกเว็บไซต์ ($COUNT$ รายการ)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "ลบข้อมูลแล้ว" },
+  "toastAllDeleted": { "message": "ลบข้อมูลทั้งหมดแล้ว" },
+  "toastNotAvailable": { "message": "ไม่สามารถใช้งานได้ในหน้านี้" },
+  "toastNoData": { "message": "ไม่มีข้อมูลที่บันทึก" }
+}

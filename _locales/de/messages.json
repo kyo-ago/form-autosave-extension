@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Speichert Textfeldeingaben automatisch und stellt sie beim Neuladen der Seite wieder her",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "Gespeicherte Felder auf dieser Seite",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "Textfeldeingaben werden automatisch gespeichert und beim Neuladen der Seite wiederhergestellt. Sensible Informationen wie Passwörter werden nie gespeichert.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "Gespeicherte Daten anzeigen",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "Gespeicherte Daten ausblenden",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "Daten dieser Seite löschen",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "Alle Daten löschen",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "Keine gespeicherten Daten",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "Auf dieser Seite nicht verfügbar",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "Alle gespeicherten Daten dieser Seite löschen?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "Alle gespeicherten Daten aller Websites löschen ($COUNT$ Einträge)?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "Daten gelöscht",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "Alle Daten gelöscht",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "Auf dieser Seite nicht verfügbar",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "Keine gespeicherten Daten",
+    "description": "Toast message when there is no data"
+  }
+}

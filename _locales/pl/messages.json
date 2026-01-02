@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Automatycznie zapisuje zawartość pól tekstowych i przywraca je po odświeżeniu strony" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Zapisane pola na tej stronie" },
+  "infoText": { "message": "Zawartość pól tekstowych jest automatycznie zapisywana i przywracana po odświeżeniu strony. Poufne informacje, takie jak hasła, nigdy nie są zapisywane." },
+  "showFieldsButton": { "message": "Pokaż zapisane dane" },
+  "hideFieldsButton": { "message": "Ukryj zapisane dane" },
+  "clearPageButton": { "message": "Wyczyść dane tej strony" },
+  "clearAllButton": { "message": "Wyczyść wszystkie dane" },
+  "emptyStateNoData": { "message": "Brak zapisanych danych" },
+  "emptyStateNotAvailable": { "message": "Niedostępne na tej stronie" },
+  "confirmClearPage": { "message": "Usunąć wszystkie zapisane dane z tej strony?" },
+  "confirmClearAll": { "message": "Usunąć wszystkie zapisane dane ze wszystkich stron ($COUNT$ elementów)?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Dane usunięte" },
+  "toastAllDeleted": { "message": "Wszystkie dane usunięte" },
+  "toastNotAvailable": { "message": "Niedostępne na tej stronie" },
+  "toastNoData": { "message": "Brak zapisanych danych" }
+}

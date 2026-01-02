@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "텍스트 필드 입력을 자동 저장하고 페이지 새로고침 시 복원합니다",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "이 페이지의 저장된 필드 수",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "텍스트 필드 입력 내용이 자동으로 저장되며, 페이지를 새로고침하면 복원됩니다. 비밀번호 등 민감한 정보는 저장되지 않습니다.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "저장된 데이터 표시",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "저장된 데이터 숨기기",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "이 페이지 데이터 삭제",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "모든 데이터 삭제",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "저장된 데이터가 없습니다",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "이 페이지에서는 사용할 수 없습니다",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "이 페이지의 모든 저장 데이터를 삭제하시겠습니까?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "모든 사이트의 저장 데이터($COUNT$개)를 삭제하시겠습니까?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "데이터가 삭제되었습니다",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "모든 데이터가 삭제되었습니다",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "이 페이지에서는 사용할 수 없습니다",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "저장된 데이터가 없습니다",
+    "description": "Toast message when there is no data"
+  }
+}

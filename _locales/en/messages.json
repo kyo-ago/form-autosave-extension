@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Automatically saves text field inputs and restores them on page reload",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "Saved fields on this page",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "Text field inputs are automatically saved and restored when you reload the page. Sensitive information like passwords is never saved.",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "Show saved data",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "Hide saved data",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "Clear data for this page",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "Clear all data",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "No saved data",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "Not available on this page",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "Delete all saved data for this page?",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "Delete all saved data for all sites ($COUNT$ items)?",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "Data deleted",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "All data deleted",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "Not available on this page",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "No saved data",
+    "description": "Toast message when there is no data"
+  }
+}

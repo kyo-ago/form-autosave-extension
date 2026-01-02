@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Form Autosave" },
+  "extensionDescription": { "message": "Metin alanı içeriklerini otomatik kaydeder ve sayfa yenilendiğinde geri yükler" },
+  "popupTitle": { "message": "Form Autosave" },
+  "statusLabel": { "message": "Bu sayfada kaydedilen alan sayısı" },
+  "infoText": { "message": "Metin alanı içerikleri otomatik olarak kaydedilir ve sayfa yenilendiğinde geri yüklenir. Şifreler gibi hassas bilgiler asla kaydedilmez." },
+  "showFieldsButton": { "message": "Kayıtlı verileri göster" },
+  "hideFieldsButton": { "message": "Kayıtlı verileri gizle" },
+  "clearPageButton": { "message": "Bu sayfanın verilerini temizle" },
+  "clearAllButton": { "message": "Tüm verileri temizle" },
+  "emptyStateNoData": { "message": "Kayıtlı veri yok" },
+  "emptyStateNotAvailable": { "message": "Bu sayfada kullanılamaz" },
+  "confirmClearPage": { "message": "Bu sayfanın tüm kayıtlı verileri silinsin mi?" },
+  "confirmClearAll": { "message": "Tüm sitelerin kayıtlı verileri ($COUNT$ öğe) silinsin mi?", "placeholders": { "count": { "content": "$1" } } },
+  "toastDeleted": { "message": "Veriler silindi" },
+  "toastAllDeleted": { "message": "Tüm veriler silindi" },
+  "toastNotAvailable": { "message": "Bu sayfada kullanılamaz" },
+  "toastNoData": { "message": "Kayıtlı veri yok" }
+}

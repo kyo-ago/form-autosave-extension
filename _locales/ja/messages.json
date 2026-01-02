@@ -1,0 +1,76 @@
+{
+  "extensionName": {
+    "message": "Form Autosave",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "テキストフィールドの入力を自動保存し、リロード時に復元します",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "Form Autosave",
+    "description": "Title shown in popup header"
+  },
+  "statusLabel": {
+    "message": "このページの保存フィールド数",
+    "description": "Label for the field count status"
+  },
+  "infoText": {
+    "message": "テキストフィールドの入力内容を自動的に保存し、ページをリロードすると復元されます。パスワードなどの機密情報は保存されません。",
+    "description": "Information text explaining the extension"
+  },
+  "showFieldsButton": {
+    "message": "保存データを表示",
+    "description": "Button to show saved fields"
+  },
+  "hideFieldsButton": {
+    "message": "保存データを隠す",
+    "description": "Button to hide saved fields"
+  },
+  "clearPageButton": {
+    "message": "このページのデータをクリア",
+    "description": "Button to clear current page data"
+  },
+  "clearAllButton": {
+    "message": "全てのデータをクリア",
+    "description": "Button to clear all saved data"
+  },
+  "emptyStateNoData": {
+    "message": "保存データはありません",
+    "description": "Message when there is no saved data"
+  },
+  "emptyStateNotAvailable": {
+    "message": "このページでは利用できません",
+    "description": "Message when extension is not available on current page"
+  },
+  "confirmClearPage": {
+    "message": "このページの保存データを全て削除しますか？",
+    "description": "Confirmation message for clearing page data"
+  },
+  "confirmClearAll": {
+    "message": "全てのサイトの保存データ（$COUNT$件）を削除しますか？",
+    "description": "Confirmation message for clearing all data",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastDeleted": {
+    "message": "データを削除しました",
+    "description": "Toast message after deleting data"
+  },
+  "toastAllDeleted": {
+    "message": "全てのデータを削除しました",
+    "description": "Toast message after deleting all data"
+  },
+  "toastNotAvailable": {
+    "message": "このページでは利用できません",
+    "description": "Toast message when not available"
+  },
+  "toastNoData": {
+    "message": "保存データはありません",
+    "description": "Toast message when there is no data"
+  }
+}
