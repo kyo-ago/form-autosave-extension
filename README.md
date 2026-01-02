@@ -109,7 +109,3 @@ form-autosave-extension/
 │   └── icon128.png
 └── README.md
 ```
-
-## ライセンス
-
-MIT License
